@@ -28,6 +28,7 @@ To invoke the CLI, use `pmhdl` before calling a specific function. Below are som
   - `-s` | `--sim`:
   - `-q` | `--quartus`:
   - `-v` | `--vivado`:
+  - `-tb` | `--testbench`: 
 
 - `pmhdl sim`:
   - `-tb` | `--testbench`: 
