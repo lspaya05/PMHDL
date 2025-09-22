@@ -1,11 +1,9 @@
-# Name: Leonard Paya
-# Date: 09/20/2025
+# Name: 
+# Date: 
+#
 
-# A Function that displays functions to choose from, and what each function does.
-import sys
+#
+# Current Functionality
+#   -
 
-def main():
-    return
-
-if __name__ == "__main__":
-    main()
+# Future Functionality:

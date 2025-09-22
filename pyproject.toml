@@ -1,0 +1,18 @@
+[build-system]
+requires = [""]
+build-backend = ""
+
+[project]
+name = "pmhdl"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+  {name = "Leonard Paya", email = "lspaya01@gmail.com"}
+  {name = "Henry Adams", email = ""}
+]
+
+[project.scripts]
+pmhdl = 

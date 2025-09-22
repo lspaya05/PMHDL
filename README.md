@@ -1,4 +1,5 @@
 # Project Manager for Hardware Description Languages
+Recomended to use with VS Code terminal and the "Verilog-HDL/SystemVerilog/Bluespec Sys" Extension.
 
 ## Installation
 
@@ -37,7 +38,7 @@ To invoke the CLI, use `pmhdl` before calling a specific function. Below are som
 - `pmhdl clean`: Removes uncessary Modelsim, Quartus, and Vivado files.
 
 > [!CAUTION]
-> Clean has not been tested extensively to not break any Quartus or Vivado Functionality.
+> `pmhdl clean` has not been tested extensively to not break any Quartus or Vivado Functionality.
 
 
 
